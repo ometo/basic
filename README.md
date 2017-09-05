@@ -1,2 +1,0 @@
-# basic
-A ruby experiment
